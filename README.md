@@ -1,1 +1,1 @@
-shell basic programming commands
+This repository contains solutions to shell basics
