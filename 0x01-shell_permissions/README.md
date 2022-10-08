@@ -1,1 +1,1 @@
-Promting shell permission commands
+Enjoy your coding day
